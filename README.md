@@ -1,2 +1,40 @@
 # example-list
 List of examples to make
+
+# List
+
+* [webap]
+* [config]
+* [cli]
+* [file config]
+* [file config with update]
+* [bcrypt]
+* [rsa]
+* [mailru json]
+* [fasthttp]
+* [templates]
+* [gui]
+* [ffmpeg]
+* [database]
+* [postgres]
+* [mongo]
+* [boltdb]
+* [sqlite]
+* [vue]
+* [go modules]
+* [websocket]
+* [telegram bot]
+* [nats]
+* [nats streaming]
+* [docker]
+* [kubernetes]
+* [lua]
+* [pipeline]
+* [geoindex]
+* [image server]
+* [cache]
+* [url shortener]
+* [tests]
+* [excel]
+
+
